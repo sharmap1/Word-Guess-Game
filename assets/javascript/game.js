@@ -1,9 +1,9 @@
 // <!-- Instructions display on the screen -->                                         
 var gamewords = [  // Create an array of words
-  "javascript",
-  "monkey",
-  "amazing",
-  "pancake"
+  "bryan adams",
+  "madonna",
+  "queen",
+  "bon jovi"
   ];
         
  var htmlword       // variables       
